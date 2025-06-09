@@ -22,6 +22,10 @@ This Data Analysis project aims to generate
 #### Steps For Removing Duplicate From IDs
       - highlight the entire dataset, go to Data icon on the menu bar and click
       - click on remove duplicate then select only ID and click OK
-        And All the duplicate in ID Column are gone
+        And All the duplicate in ID Column will be gone
 #### Steps For Removing Infinite Values
+      - highlight the rows with inf value and blank spaces
+      - press ctrl + - , a box will display
+      - select entire row and then click OK
+      And all the rows with inf value and blank spaces will be gone
         
