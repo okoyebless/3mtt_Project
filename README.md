@@ -16,3 +16,12 @@ This Data Analysis project aims to generate
 2. A summay table showing total quantity and total value per region
 
    ![pivot table](https://github.com/user-attachments/assets/d8be1889-0e72-4dd6-8ff7-9bafe9ee9232)
+
+### SHORT REPORT
+
+#### Steps For Removing Duplicate From IDs
+      - highlight the entire dataset, go to Data icon on the menu bar and click
+      - click on remove duplicate then select only ID and click OK
+        And All the duplicate in ID Column are gone
+#### Steps For Removing Infinite Values
+        
