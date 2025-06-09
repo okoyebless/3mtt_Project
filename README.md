@@ -3,10 +3,10 @@
 ## PROJET TITLE: Data Cleaning and Analysis Task
 
 ## PROJECT OBJECTIVES
-This Data Analysis project aims to generate 
-     - a cleaned dataset with duplicate IDs removed and infinite values handleed,
-     - a summary table showing total quantity and total value per region and 
-     - a short report explaining the steps and insights from the cleaned data.
+This Data Analysis project aims to generate; 
+- a cleaned dataset with duplicate IDs removed and infinite values handleed,
+- a summary table showing total quantity and total value per region and 
+- a short report explaining the steps and insights from the cleaned data.
 
 ## DATA ANALYSIS
 1. A cleaned data
@@ -25,14 +25,14 @@ Steps For Removing Duplicate From IDs;
 - click on remove duplicate then select only ID and click OK
 - And All the duplicate in ID Column will be gone
         
-Steps For Removing Infinite Values
+Steps For Removing Infinite Values;
 
 - highlight the rows with inf value and blank spaces
 - press ctrl + - , a box will display
 - select entire row and then click OK
 - And all the rows with inf value and blank spaces will be gone
       
-Steps For a Summay Table Showing Total Quantity and Total Value Per Region
+Steps For a Summay Table Showing Total Quantity and Total Value Per Regio;
 
 - highlight the entire dataset, go to Insert icon on the menu bar and click
 - click on pivot table, a box will display then click
