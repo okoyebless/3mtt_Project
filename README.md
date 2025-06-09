@@ -28,4 +28,13 @@ This Data Analysis project aims to generate
       - press ctrl + - , a box will display
       - select entire row and then click OK
       And all the rows with inf value and blank spaces will be gone
+#### Steps For a Summay Table Showing Total Quantity and Total Value Per Region
+      - highlight the entire dataset, go to Insert icon on the menu bar and click
+      - click on pivot table, a box will display then click
+      - a new worksheet will open with a pivot table field list open on right hand side of it
+      - select region and then select quantity, on the left hand side a summary table of total quantity per region will emerge
+      - the same goes for summary table of total value per region
+
+### INSIGHT ON CLEANED DATA
+      I noticed that cleaning the data , the dataset that was 32 in number reduces to 22.
         
